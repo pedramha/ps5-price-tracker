@@ -4,6 +4,6 @@ In this little python script, I tried to automated the process of checking the a
 The project uses firefox webdriver (included in the repo). In case there were problems with the driver, consider updating the webdriver to the version of your firefox.
 After clonening the repo:
 <br />
-  cd path/you/cloned/to <br />
-  pip install -r requirements.txt <br />
-  python tracker.py <br />
+		cd path/you/cloned/to <br />
+		pip install -r requirements.txt <br />
+		python tracker.py <br />
